@@ -1,2 +1,3 @@
-# forcasting
-Python code for Forecasting: Principles and Practice
+# Forcasting
+
+My python code for some examples from the book: Forecasting: Principles and Practice.
